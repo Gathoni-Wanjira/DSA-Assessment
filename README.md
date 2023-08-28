@@ -1,4 +1,4 @@
-#QUESTION 1
+ # QUESTION 1
 
  - Implement a function is_balanced(expression) that takes a string 
 containing parentheses, curly braces, and square brackets,and determines whether 
@@ -17,7 +17,7 @@ print(is_balanced(expression2))  # Output: False
 
 ```
 
-#Question2 
+ # Question2 
 
  - Sequences (Lists/Tuples): 
 
@@ -34,7 +34,7 @@ print(result)  # Output: [2, 3, 4, 5, 6, 7]
 ```
 
 
-#Question3
+ # Question3
 
  - Dictionaries: 
 
